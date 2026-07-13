@@ -1,5 +1,5 @@
 class student{
 int StudentId;
 String studentname;
-double stumarks;
+double studentsmarks;
 }
