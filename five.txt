@@ -1,18 +1,10 @@
-<<<<<<< Updated upstream
 Story-22
-=======
-Story-11
->>>>>>> Stashed changes
 public class main{
 public static void main(String[] args){
 int a=10;
 int b=40;
 System.out.println(a-b);
-<<<<<<< Updated upstream
 
-=======
-System.out.println(a*b);
->>>>>>> Stashed changes
 }
 
 }
